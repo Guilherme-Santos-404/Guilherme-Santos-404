@@ -27,3 +27,14 @@ I specialize in CI/CD processes, leveraging workflows, Kubernetes, and GitFlow:
 - **Kubernetes:** Managing containerized applications using Kubernetes for scalability, resilience, and efficient resource utilization.
 
 - **GitFlow:** Implementing GitFlow branching model to streamline development, release, and feature management workflows.
+
+### :pencil: Articles and Medium
+
+I frequently try to publish articles on technologies that interest me on my Medium page:
+
+- **Medium Profile:** [Guilherme Santos on Medium](https://medium.com/@guilherme.santos.jpeg)
+
+### :iphone: Contact
+
+- **LinkedIn:** [Guilherme dos Santos on LinkedIn](https://www.linkedin.com/in/guilherme-dos-santos-813171193/)
+- **Email:** guilherme.santos.jpeg@gmail.com
