@@ -2,7 +2,7 @@
 
 <img align="right" width="18%" height="150" src="https://media4.giphy.com/media/WJbZ59I9YaAbdWCsId/giphy.gif?cid=790b761140ff70d1b1b8535ddd9fcb5ff110591953222e3b&rid=giphy.gif&ct=">
 
-:man_technologist::brazil: My name is **Guilheme Santos**, I'm an 24 years old **Tech Lead in Amplimed Company and Software Engineer**.
+:man_technologist::brazil: My name is **Guilheme Santos**, I'm an 24 years old **TTech Lead at Amplimed Company and a Software Engineer**.
 
 Passionate about software architecture, I frequently leverage my skills in: Java, Node.js, TypeScript, Next.js and React, Flutter, Kotlin, SQL and NoSQL, Shell Script, PHP/Laravel. Additionally, I have hands-on experience with CI/CD processes, container creation and management, and daily GIT usage.
 
