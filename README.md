@@ -17,3 +17,13 @@ Passionate about software architecture, I frequently leverage my skills in: Java
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36px" height="36px"></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36px" height="36px"></a>
 <a href="https://redis.io/" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="36px" height="36px"></a>
+
+### :gear: CI/CD and DevOps
+
+I specialize in CI/CD processes, leveraging workflows, Kubernetes, and GitFlow:
+
+- **Workflows:** Designing and implementing efficient CI/CD pipelines to automate software delivery and deployment processes.
+  
+- **Kubernetes:** Managing containerized applications using Kubernetes for scalability, resilience, and efficient resource utilization.
+
+- **GitFlow:** Implementing GitFlow branching model to streamline development, release, and feature management workflows.
