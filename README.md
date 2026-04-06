@@ -2,7 +2,7 @@ Hi! Welcome! :zap::globe_with_meridians:
 
 <img align="right" width="18%" height="150" margin="2" title="Snow, one of my cats" src="https://media4.giphy.com/media/WJbZ59I9YaAbdWCsId/giphy.gif?cid=790b761140ff70d1b1b8535ddd9fcb5ff110591953222e3b&rid=giphy.gif&ct=">
 
-:man_technologist::brazil: My name is **Guilheme Santos**, I'm a 25-year-old **Tech Lead at Amplimed Company and a Software Engineer**.
+:man_technologist::brazil: My name is **Guilheme Santos**, I'm a 25-year-old **Software Architect at Amplimed Company and a Software Engineer**.
 
 Passionate about software architecture, I frequently leverage my skills in: Java, Node.js, TypeScript, Next.js and React, Flutter, Kotlin, SQL and NoSQL, Shell Script, PHP/Laravel. Additionally, I have hands-on experience with CI/CD processes, container creation and management, and daily GIT usage.
 
